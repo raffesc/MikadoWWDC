@@ -7,9 +7,9 @@ This is my entry for a [WWDC 2019 scholarship](https://developer.apple.com/wwdc/
 ## Screenshots
 
 ![](https://i.imgur.com/ZmtkHph.jpg)
-![]()
-![]()
-![]()
+![](https://i.imgur.com/0VzBpQT.png)
+![](https://i.imgur.com/zKyAARF.jpg)
+![](https://i.imgur.com/zituFRP.jpg)
 
 ## Features
 
