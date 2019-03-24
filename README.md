@@ -1,6 +1,6 @@
  # The Mikado Game
  
-“*The Mikado Game*” is an interactive playground in which you can have fun with two games: the Mikado as everyone knows and a new concept of it. Here is a short [preview video](https://youtu.be/_BiAqXCkpPA) of the playground book running on an iPad.
+“*The Mikado Game*” is an interactive playground in which you can have fun with two games: the Mikado as everyone knows and a new concept of it. Here is a short [preview video](https://www.youtube.com/watch?v=Mz86J83I-Lo) of the playground book running on an iPad.
 
 This is my entry for a [WWDC 2019 scholarship](https://developer.apple.com/wwdc/scholarships/). Be sure to check out the other amazing [entries on GitHub](https://github.com/wwdc/2019)!
 
